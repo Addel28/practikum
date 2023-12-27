@@ -1,0 +1,163 @@
+{
+  "class1": [
+    {
+      "Id": 1,
+      "Name": "Sasha",
+      "Surname": "updated@example.com",
+      "Age": 15,
+      "Lastname": "Golyshev",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "Surname": "alice@example.com",
+      "Age": 23,
+      "Lastname": "Siman"
+    },
+    {
+      "Id": 4,
+      "Name": "Test User",
+      "Surname": "test@example.com",
+      "Age": 45,
+      "Lastname": "User",
+      "id": 4
+    },
+    {
+      "Id": 4,
+      "Name": "Test User",
+      "Surname": "tt@example.com",
+      "Age": 18,
+      "Lastname": "Tihonov",
+      "id": 5
+    },
+    {
+      "Id": 4,
+      "Name": "Bogus.DataSets.Name",
+      "Surname": "te@example.com",
+      "Age": 25,
+      "Lastname": "Mitrofanov",
+      "id": 6
+    }
+  ],
+  "class2": [
+    {
+      "Id": 1,
+      "Name": "BogusSets.Name",
+      "Surname": "t@example.com",
+      "Age": 25,
+      "Lastname": "Mitrofanov",
+      "id": 1
+    },
+    {
+      "Id": 1,
+      "Name": "Bogue",
+      "Surname": "et@example.com",
+      "Age": 25,
+      "Lastname": "ofanov",
+      "id": 3
+    },
+    {
+      "Id": 1,
+      "Name": "Bots.Name",
+      "Surname": "fd@example.com",
+      "Age": 25,
+      "Lastname": "Minov",
+      "id": 4
+    },
+    {
+      "Id": 1,
+      "Name": "Boets.Name",
+      "Surname": "tfst@example.com",
+      "Age": 25,
+      "Lastname": "anov",
+      "id": 5
+    }
+  ],
+  "class3": [
+    {
+      "Id": 1,
+      "Name": "Bogusame",
+      "Surname": "gd@example.com",
+      "Age": 25,
+      "Lastname": "Mitov",
+      "id": 1
+    },
+    {
+      "Id": 1,
+      "Name": "Bodfts.Name",
+      "Surname": "tehft@example.com",
+      "Age": 25,
+      "Lastname": "Mxcanov",
+      "id": 3
+    }
+  ],
+  "class4": [
+    {
+      "Id": 1,
+      "Name": "Boxcts.Name",
+      "Surname": "ewt@example.com",
+      "Age": 25,
+      "Lastname": "Msdnov",
+      "id": 1
+    },
+    {
+      "Id": 1,
+      "Name": "BdsSets.Name",
+      "Surname": "tbft@example.com",
+      "Age": 25,
+      "Lastname": "bfnov",
+      "id": 3
+    },
+    {
+      "Id": 1,
+      "Name": "BvbdtaSets.Name",
+      "Surname": "grtt@example.com",
+      "Age": 25,
+      "Lastname": "Miyjv",
+      "id": 4
+    },
+    {
+      "Id": 1,
+      "Name": "DataSets",
+      "Surname": "test@example.com",
+      "Age": 25,
+      "Lastname": "yui",
+      "id": 5
+    }
+  ],
+  "class5": [
+    {
+      "Id": 1,
+      "Name": "Bogus.DataSets",
+      "Surname": "test@example.com",
+      "Age": 25,
+      "Lastname": "qwe",
+      "id": 1
+    },
+    {
+      "Id": 1,
+      "Name": "Name",
+      "Surname": "test@example.com",
+      "Age": 25,
+      "Lastname": "dfg",
+      "id": 3
+    },
+    {
+      "Id": 1,
+      "Name": "DataSets.Name",
+      "Surname": "test@example.com",
+      "Age": 25,
+      "Lastname": "zxc",
+      "id": 4
+    },
+    {
+      "Id": 1,
+      "Name": "Bogus",
+      "Surname": "test@example.com",
+      "Age": 25,
+      "Lastname": "asd",
+      "id": 5
+    }
+  ]
+}

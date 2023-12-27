@@ -1,0 +1,15 @@
+﻿﻿[27.12.2023 16:29:48] POST Request - Status Code: Created
+[27.12.2023 16:29:48] GAME Request - Status Code: Created
+[27.12.2023 16:29:48] POST Request - Status Code: OK
+[27.12.2023 16:29:48] POST Request - Status Code: OK
+[27.12.2023 16:29:48] POST Request - Status Code: OK
+[27.12.2023 16:29:48] POST Request - Status Code: OK
+[27.12.2023 16:29:48] POST Request - Status Code: OK
+[27.12.2023 16:29:48] BOOK Request - Status Code: Created
+[27.12.2023 16:29:48] GAME Request - Status Code: OK
+[27.12.2023 16:29:48] GAME Request - Status Code: OK
+[27.12.2023 16:29:48] BOOK Request - Status Code: OK
+[27.12.2023 16:29:48] SUBJECT Request - Status Code: Created
+[27.12.2023 16:29:48] SUBJECT Request - Status Code: OK
+[27.12.2023 16:29:48] SUBJECT Request - Status Code: OK
+[27.12.2023 16:29:48] BOOK Request - Status Code: OK
